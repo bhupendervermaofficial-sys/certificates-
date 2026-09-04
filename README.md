@@ -6,5 +6,5 @@
 | Microsoft Excel (Self Learning) | Skill Course | Jul 2026 | [View](./ms_excel_certificate.png) |
 | Power BI for Beginners | — | Aug 2026 | [View](./MICROSOFT_POWER_BI_CERTIFICATE.pdf) |
 | Introduction to SQL | — | Aug 2026 | [View](https://github.com/bhupendervermaofficial-sys/certificates-/blob/main/INTRO%20TO%20SQL%20CERTIFICATE.pdf) |
-| Introduction to Data Analytics | — | Aug 2026 | [View](./INTRODUCTION_TO_DATA_ANALYTICS.pdf) |
+| Introduction to Data Analytics | — | Aug 2026 | [View](https://github.com/bhupendervermaofficial-sys/certificates-/blob/main/INTRODUCTION%20TO%20DATA%20ANALYTICS.pdf)|
 | Introduction to Cybersecurity | Cisco Networking Academy | Aug 2026 | [View](./introduction_to_cybersecurity.pdf) |
